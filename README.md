@@ -1,4 +1,4 @@
-Footprintcoin Core integration/staging tree
+Footprintcoin Core integration/staging tree ( Unstable release ) 
 =====================================
 
 What is Footprintcoin?
